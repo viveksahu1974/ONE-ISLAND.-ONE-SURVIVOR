@@ -6,9 +6,13 @@ A free, original 2D top-down solo survival game against bots. Built with HTML, C
 
 ### Play
 
-Current hosted game: https://ember-drop-arena-vivek.foggyjelly2.chatgpt.site
+1. Click **Code → Download ZIP** and extract the files.
+2. Open `index.html` in your browser.
+3. Choose **Easy, Medium, or Hard**, then click **Deploy**.
 
-The hosted Site currently requires the owner's access. To run your own copy, download this repository and open `index.html`, or serve the folder with `python -m http.server 8000` and visit http://localhost:8000.
+Alternatively, run `python -m http.server 8000` from the game folder and open http://localhost:8000.
+
+For a shareable online game, follow the GitHub Pages setup below.
 
 ### Three modes and maps
 
