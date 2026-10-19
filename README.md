@@ -4,6 +4,12 @@
 
 A free, original 2D top-down solo survival game against bots. Built with HTML, CSS, and vanilla JavaScript. No installation, backend, API keys, or build step required.
 
+### Play online — Live Demo
+
+**[▶ Play ONE ISLAND. ONE SURVIVOR. (EMBER DROP)](https://viveksahu1974.github.io/portfolio/one-island/)**
+
+This playable demo is hosted on the [Vivek Sahu portfolio](https://viveksahu1974.github.io/portfolio/#projects) using the game's `index.html`, `style.css` and `game.js`. No installation, account or backend required. GitHub Pages deployment can take a few minutes after an update.
+
 ### Play
 
 1. Click **Code → Download ZIP** and extract the files.
